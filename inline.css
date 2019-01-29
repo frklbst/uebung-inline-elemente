@@ -26,5 +26,22 @@ p{
 
 .wrapper{
 	margin: 0 auto;
-	width:  600px;
+	width: 600px;
+}
+img{
+	float: left;
+	margin: 0 1rem 1rem 0;
+}
+a{
+	background: yellow;
+	display: inline;
+}
+span{
+	color: red;
+}
+.font{
+	font-family: fantasy;
+	font-size: 400%;
+	display: block;
+
 }
